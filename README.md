@@ -156,6 +156,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+  
 Attama Kevin - [Github](https://github.com/attamakevin) / [Twitter](https://twitter.com/KelvinEjike8)
 
 Third part of Airbnb: Attama Kevin
