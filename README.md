@@ -158,7 +158,10 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
   
 Attama Kevin - [Github](https://github.com/attamakevin) / [Twitter](https://twitter.com/KelvinEjike8)
+Emmanuel Akejelu - [Github](https://github.com/Sir-Blow)
 
 Third part of Airbnb: Attama Kevin
+Third part of AirBnB: Emmanuel Akejelu (Collaboraotor)
+
 ## License
 Public Domain. No copy write protection. 
